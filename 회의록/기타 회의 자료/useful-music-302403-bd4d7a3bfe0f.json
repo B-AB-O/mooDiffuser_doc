@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "useful-music-302403",
+  "private_key_id": "bd4d7a3bfe0f0a9c59189475c3b1730c42a537bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeoEedv7TbXuoR\nnBfevoGpFs8e5ZVvnBc8EXESADQGH/SZAi651Of5Ln0uneVXCUwLp7it7IQnmGe+\nNX+bsM4rKoTIHNS7QCPkH0wnQRLXZuwx+jBCv99kgib43C3+tC8SXLluHsYFDU+V\n32XgJGnd+3dtMo+DxDbTTLWS3SFfVftzQOXwSywy6tCsKmJViEAVEjSd5xNkEXHu\nu9e4S3hVtU9jMWU80hqU7UQiCeRTuqFC864Zw8WV4CVjaQVahdvwm6e3NIwBX2HG\n+GhUiSHUvh9ECFKE3HBr3O8opVeoFSiNJHa1olDeD066iU35VkZAjH7Kmw+nvjZK\nX4voS38DAgMBAAECggEAJ8LeYLzajThz7LkXRKa1IpjMjx6WQDU8n7pxgMUbRUPC\nUI46/yrOgOf1yfcbMx9p9+vxP2tvTuuFaajIVVLSwwAz62NKsasos/hiYt6NZf/v\nCbIAYeLtkKiNM0khoFwzBmPGuUMueLq27cbjJvWJsfJkI7OORMWsxndOdkNGp7ol\nKwqRSPJtoZ87e7OS7e0N1jwtcheD5gjsorYVUb4Xhpdj1LUZAPll5ij322ppJOyV\nZiDDXX4t0rKkDEnbTuQ0EGfptjd3Gi1+BMN6fm279ajc/zxfC1MGcU3PhL/N4E7t\nij8Icwk902amKaWXfYVywCBhd6NlMHV7vZEn6Eh9xQKBgQDQHvSZgKE5qxdtuDmz\nSDeeWr89E5oRztXKNoGNQ3awn/V+G8lYNoy8AqI4/iDeShtsuR88TvZYrRFq4F0a\ngaIzyE6k2Yha316XWP0HoQVmW8yg+V5RgtVrvqLZ96l74m+OCaMHNR+Hn7A9FTGg\nXYLqJfP7i4RrQE8H8aqL5QyhdwKBgQDDHmIAYUzbfUkYhsqkYpDBF9lXfALgAdqJ\nDIgdcCBVSMo2hjOnysowzSuOeRwLHtPhcXZbxL9dM/nIQ/sp2RN70/5n0okNvXy7\nZywEnHp6NbnjdYFpej0I5Qsh0Cpfp47Wl/k7S7fnsRsvh9i1XBrqYZe7Ztgrjigr\n0DotmIHR1QKBgQCgu/efAhgCiN/MTmbJzvGdrGpcSmJIdJzq0pPVvQ/Ss4ePAPjM\n1zx0C/ir2aEa7NMncgXstvNNY0S7bVKaoRnbsk0CxjqoLDFK5GBvXu3jsuxkOpOc\nklYwI4h0nPDZi/UqFslBTMbwIOWlF1Q/jVkJa4x2brczefRPp1ZXOuw5WwKBgFjE\n4eE6YzUYcsDt0hOnpCO1LfRXPxeawEnJocOC17L1Qso7lBSqdgJt1XskLlYA2HSg\nojBt+oH0u5cZFpObZvnXIM8rQZ82riC0d5pBdpdTChcpxo6uRkZdrgrcIesS2DFZ\nQtJvSGPod23QaA9asAQiEl34FDD8o9oLCezkjWthAoGBAIRjkwUmVc5Hq9M9x1FQ\nzbCdXRoQ9VS+Mp2o9QXltGIFNW23e9/71ywf+/65prXPyjG2j1KB5fnF3VuDVbIJ\nEhnns4nfL9mAmYu9+xURB3mlgBRJX2Boa/bJ4pbMydsocENcxKHzpYxeWx7TwRJ+\nKKktvyCXkZk+2HbhLkjLpTu/\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text-api-test@useful-music-302403.iam.gserviceaccount.com",
+  "client_id": "112630734252905161038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-api-test%40useful-music-302403.iam.gserviceaccount.com"
+}
